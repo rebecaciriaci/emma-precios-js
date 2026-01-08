@@ -1,5 +1,5 @@
 ﻿const productos = [
-  {"Codigo": "4-2-5412", "Producto": "ACEITE BOMBA VACIO 1 LTS REFRIOIL", "Precio_Cliente": 19501.97, "Precio_Tecnico": 17500.00, "Cantidad_Stock": 0},
+  {"Codigo": "4-2-5412", "Producto": "ACEITE BOMBA VACIO 1 LTS REFRIOIL", "Precio_Cliente": 19501.90, "Precio_Tecnico": 17500.00, "Cantidad_Stock": 0},
   {"Codigo": "4-2-210109", "Producto": "ACEITE BOMBA VACIO X 1/2 LTS REFRIOIL", "Precio_Cliente": 12000.00, "Precio_Tecnico": 10690.00, "Cantidad_Stock": 4},
   {"Codigo": "ada001", "Producto": "ADAPTADOR P/ MANGUERA  R22 A  R410", "Precio_Cliente": 12500.00, "Precio_Tecnico": 10000.00, "Cantidad_Stock": 1},
   {"Codigo": "ad01", "Producto": "ADAPTADOR PARA JERINGA 1/4 Y 5/16", "Precio_Cliente": 13500.00, "Precio_Tecnico": 10400.00, "Cantidad_Stock": 4},
