@@ -279,8 +279,19 @@
 
 
         function actualizarFecha() {
-            const fechaActualizacion = new Date().toLocaleString('es-AR');
-            document.getElementById('fecha-actualizacion').textContent = fechaActualizacion;
+            const ahora = new Date();
+        
+            const fecha = ahora.toLocaleDateString('es-AR');
+        
+            const hora = ahora.toLocaleTimeString('en-US', {
+                hour: '2-digit',
+                minute: '2-digit',
+                second: '2-digit',
+                hour12: true
+            });
+        
+            document.getElementById('fecha-actualizacion').textContent =
+                `${fecha} ${hora}`;
         }
 
         function mostrarNotificacion(mensaje) {
@@ -395,4 +406,5 @@
         }
     </script>
 </body>
+
 </html>
