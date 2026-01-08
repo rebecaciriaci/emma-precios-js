@@ -1,5 +1,5 @@
-const productos = [
-  {"Codigo": "4-2-5412", "Producto": "ACEITE BOMBA VACIO 1 LTS REFRIOIL", "Precio_Cliente": 19501.99, "Precio_Tecnico": 17500.00, "Cantidad_Stock": 0},
+﻿const productos = [
+  {"Codigo": "4-2-5412", "Producto": "ACEITE BOMBA VACIO 1 LTS REFRIOIL", "Precio_Cliente": 19501.97, "Precio_Tecnico": 17500.00, "Cantidad_Stock": 0},
   {"Codigo": "4-2-210109", "Producto": "ACEITE BOMBA VACIO X 1/2 LTS REFRIOIL", "Precio_Cliente": 12000.00, "Precio_Tecnico": 10690.00, "Cantidad_Stock": 4},
   {"Codigo": "ada001", "Producto": "ADAPTADOR P/ MANGUERA  R22 A  R410", "Precio_Cliente": 12500.00, "Precio_Tecnico": 10000.00, "Cantidad_Stock": 1},
   {"Codigo": "ad01", "Producto": "ADAPTADOR PARA JERINGA 1/4 Y 5/16", "Precio_Cliente": 13500.00, "Precio_Tecnico": 10400.00, "Cantidad_Stock": 4},
@@ -418,7 +418,3 @@ const productos = [
   {"Codigo": "mec001", "Producto": "VASTAGO 45MM (PARA  MECHA  DE  COPA)", "Precio_Cliente": 29600.00, "Precio_Tecnico": 24800.00, "Cantidad_Stock": 1},
   {"Codigo": "visor001", "Producto": "VISOR DREAN NEXT 8 KG (DISPLAY)", "Precio_Cliente": 42800.00, "Precio_Tecnico": 35600.00, "Cantidad_Stock": 0}
 ];
-
-
-
-
